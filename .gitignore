@@ -1,0 +1,9 @@
+archivo_temporal.text
+*.zip
+images/*
+log/*.log
+!images/logo.jpg
+*.zip
+log/*.log
+images/*
+!images/logo.jpg
